@@ -1,0 +1,28 @@
+HARINI PORTFOLIO — QUICK EDITING GUIDE
+
+FILES
+- index.html: main portfolio homepage.
+- projects.html: separate page for additional project summaries.
+- assets/: profile photo and dashboard screenshots.
+
+HOW TO PREVIEW
+1. Extract the ZIP to a folder on your computer.
+2. Keep index.html, projects.html, and the assets folder together.
+3. Double-click index.html to open the homepage in Chrome.
+4. Click “Explore other projects” to open projects.html.
+5. Do not move the HTML files away from the assets folder.
+
+DASHBOARD SCREENSHOTS
+The two VAHAN screenshots appear side by side on desktop and stack on smaller screens. Click either image to open the full-size image viewer. Use the yellow “← Back to portfolio” button, click the dark background, or press Escape to return.
+
+EDITING
+- Easiest: send updated text, screenshots, and links to ChatGPT and request an updated package.
+- DIY: open index.html or projects.html in Visual Studio Code or Notepad, edit the text or URL, save, and refresh Chrome.
+- To replace an image, put the new image in assets/ and update the corresponding src="assets/filename.ext" in the HTML.
+- Keep the folder structure intact.
+
+LINKS
+The workbook button opens your OneDrive link. Confirm sharing permissions before sharing publicly. The contact button opens Gmail compose in your browser; LinkedIn opens your profile.
+
+PUBLISHING
+This is a static website and is not public until uploaded to a hosting provider. Keep both HTML files and assets together when publishing.
